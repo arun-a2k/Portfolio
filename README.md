@@ -67,11 +67,13 @@
     </section>
     <section id="projects">
         <h2>Projects</h2>
-        <h3>AI Chat Bot for Education Purpose</h3>
+        <ul>
+            <li>AI Chat Bot for Education Purpose</li>
 
-        <h3>Bio-Inspired Design with Combination of Butterfly Wing and Solar Panels</h3>
+            <li>Bio-Inspired Design with Combination of Butterfly Wing and Solar Panels</li>
 
-        <h3>Portfolio Using HTML</h3>
+            <li>Portfolio Using HTML</li>
+      </ul>
     </section>
     <section id="skills">
         <h2>Skills</h2>
